@@ -5,15 +5,11 @@ Este programa implementa uma calculadora simples em Javascript e realiza testes 
 ## Como executar o programa 
 
 ```
-
 npm install
-
 ```
 
 ## Execução dos testes unitários
 
 ```
-
 npm test
-
 ```
