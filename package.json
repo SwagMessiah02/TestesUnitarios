@@ -1,0 +1,19 @@
+{
+  "name": "calculadora_teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CalculadoraService.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5"
+  }
+}
